@@ -9,13 +9,10 @@ relevant events are semantically analyzed.
 WUHM/
 │── ontology/
 │   └── wuhm.owl
-│
 │── data/
 │   └── sensor_data.rdf
-│
 │── cep/
 │   └── disease_rules.txt
-│
 │── queries/
 │   └── health_monitoring.sparql
 
