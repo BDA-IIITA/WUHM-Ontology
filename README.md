@@ -5,7 +5,7 @@ and semantic reasoning to enable real-time alerts, disease detection, and intell
 relevant events are semantically analyzed.
 
 
-📂 How to use 
+ **How to use**
 WUHM/
 │── ontology/
 │   └── wuhm.owl
