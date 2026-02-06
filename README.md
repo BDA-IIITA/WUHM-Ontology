@@ -6,6 +6,7 @@ relevant events are semantically analyzed.
 
 
  **How to use**
+```text
 WUHM/
 │── ontology/
 │   └── wuhm.owl
@@ -15,6 +16,7 @@ WUHM/
 │   └── disease_rules.txt
 │── queries/
 │   └── health_monitoring.sparql
+
 
 
 🧠 Component Description
